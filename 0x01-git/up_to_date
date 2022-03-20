@@ -1,2 +1,3 @@
 touch
 git diff
+git pull
